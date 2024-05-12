@@ -1,0 +1,26 @@
+{
+  "name" : "Arvanda Reihansyah",
+  "age" : 17,
+  "hobi" : [
+    "coding",
+    "Main Game",
+    "Membuat musik"
+  ],
+  "movie" : [
+    {
+      "id": 1,
+      "title": "God of War",
+      "sinopsis": "This a movie"
+    },
+    {
+      "id": 2,
+      "title": "Harvest Moon",
+      "sinopsis": "This a movie"
+    },
+    {
+      "id": 3,
+      "title": "Hamtaro",
+      "sinopsis": "This a movie"
+    }
+  ]
+}
